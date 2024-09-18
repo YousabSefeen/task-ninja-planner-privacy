@@ -1,10 +1,10 @@
 # Privacy Policy
 
 1. Introduction
-Welcome to Task  Ninja Planner, Your privacy is important to us. This Privacy Policy explains how we handle your information when you use our app.
+Welcome to Ninja Planner, Your privacy is important to us. This Privacy Policy explains how we handle your information when you use our app.
 
 2. Information We Collect
-Task Ninja Planner collects and stores information related to your daily tasks, including:
+ Ninja Planner collects and stores information related to your daily tasks, including:
 
 Task Details: Information about the tasks you add, such as titles, descriptions, and due dates.
 Task Management: Information related to task organization, reminders, and notifications.
@@ -26,7 +26,7 @@ We are committed to ensuring the security of your task information. We use appro
 Our app does not integrate with third-party services that collect user data. We do not share your task information with external services.
 
 7. Children's Privacy
-Task Ninja Planner is not intended for use by individuals under the age of 13. We do not collect information from children.
+Ninja Planner is not intended for use by individuals under the age of 13. We do not collect information from children.
 
 8. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any significant changes by posting the updated policy in the app.
